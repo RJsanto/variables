@@ -1,5 +1,5 @@
 #Ricky Santos
-#development exercise 1
+#development exercise 1 devision and remainders
 #12/09/2014
 
 number1 = float(input("please enter your first number: "))
