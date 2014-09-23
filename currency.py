@@ -6,6 +6,8 @@ totalmoney = float(input("please enter your amount: "))
 
 twenty = totalmoney // 20
 money1 = totalmoney % 20
+#// gives no deciamls
+#%
 
 ten = money1 // 10
 money2 = money1 % 10
