@@ -6,7 +6,7 @@ import math
 import time
 
 fahrenheit = int(input("please enter the temperature in degrees Fahrenheit: "))
-#float allows decimal numbers.
+#float allows decimal numbers. int is only for whole numbers
 
 centigrade = (fahrenheit - 32)*(5/9)
 centigrade = round(centigrade,0)
